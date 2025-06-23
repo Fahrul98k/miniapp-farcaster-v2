@@ -1,0 +1,12 @@
+{
+    "frame": {
+      "version": "1",
+      "name": "Mini App Placeholder",
+      "iconUrl": "https://placehold.co/64x64",
+      "homeUrl": "https://miniapp-anda.vercel.app",
+      "imageUrl": "https://placehold.co/600x400",
+      "buttonTitle": "Mulai",
+      "splashImageUrl": "https://placehold.co/200x200",
+      "splashBackgroundColor": "#eeeeee"
+    }
+  }
